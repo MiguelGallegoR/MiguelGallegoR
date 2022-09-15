@@ -8,4 +8,4 @@
 MiguelGallegoR/MiguelGallegoR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hola soy Miguel Gallego Rodríguez, tengo 23 años y   actualmente estoy terminando  un grado superior de desarroll web . Me  interesa encontrar una empresa para realizar las practica y aprender  más  sobre el mundo de la programación e iniciarme en este mercado laboral
+Hola soy Miguel Gallego Rodríguez, tengo 23 años y acabo de terminar mi grado superior de desarrollo web . Me  interesa encontrar una empresa para aprender más  sobre el mundo de la programación e iniciarme en este mercado laboral.
