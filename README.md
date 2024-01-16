@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Web Developer with passion for Science.<br><br>Looking for an opportunity in a company where I can grow both personally and professionally, while I contribute to the team.<br><br>🌱 I’m currently learning JavaScript, React, TypeScript and PHP.<br><br>🎓 I'm certified as an Web Developer by ILERNA ONLINE.<br><br>💬 Ask me about whatever you need related to Web development, I would like to help you and learn together.
+ I’m Web Developer with passion for Science.<br><br>Looking for an opportunity in a company where I can grow both personally and professionally, while I contribute to the team.<br><br>🌱 I’m currently learning JavaScript, React, TypeScript and Node.<br><br>🎓 I'm certified as an Web Developer by ILERNA ONLINE.<br><br>💬 Ask me about whatever you need related to Web development, I would like to help you and learn together.
 
 
 ## 🌐 Socials:
